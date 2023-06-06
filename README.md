@@ -3,7 +3,7 @@
 
 
 ---
-![ezgif com-video-to-gif (1)](https://github.com/EASYhz/CodingTest-Practice./assets/65584699/cc72f1d7-4e89-4ef2-baff-e2f3ee760e4b)
+![ezgif com-video-to-gif (1)](https://github.com/We-Need-Banghak/footballPlayer-Tracking/assets/65584699/0e9fda69-6940-4fd8-8ecc-74e34fc3cf92)
 
 ## Dataset
 * link: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
@@ -34,8 +34,7 @@
 
 Base Decetcion|Ball possession detection|
 |-----|-----|
-|<img width="685" alt="image" src="https://github.com/EASYhz/CodingTest-Practice./assets/65584699/6b7ad2a1-f644-4735-99d7-4fe56d48ff8a">|<img width="685" alt="image" src="https://github.com/EASYhz/CodingTest-Practice./assets/65584699/2230763b-ec38-4678-9d0e-a8527ad75e9d">|
-
+|<img width="685" alt="img" src="https://github.com/We-Need-Banghak/footballPlayer-Tracking/assets/65584699/10d55cff-a986-4e65-b3f4-dd7e595e643b">|<img width="679" alt="img" src="https://github.com/We-Need-Banghak/footballPlayer-Tracking/assets/65584699/7e9078b2-e19a-4d74-bca6-60d12e2d2a59">|
 
 
 ## Directory structure
